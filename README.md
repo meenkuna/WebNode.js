@@ -4,5 +4,5 @@
 ```npm install -g sass```
 ## ติดตั้ง liveserver
 ```npm install -g live-server```
-## run
+## run Git CMD
 ```live-server --port=8000```
